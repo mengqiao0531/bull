@@ -101,6 +101,6 @@ var picArray = ["../img/1.png", "../img/2.png", "../img/3.png",
     , "../img/15.png", "../img/16.png", "../img/17.png"
     , "../img/18.png", "../img/19.png", "../img/20.png", "../img/21.jpg"
     , "../img/22.jpg", "../img/23.jpg", "../img/24.png", "../img/25.png", 
-    "../img/26.jpg"
+    "../img/26.jpg","../img/27.jpg"
 ];
 
